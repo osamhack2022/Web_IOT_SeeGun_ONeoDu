@@ -1,3 +1,9 @@
+# SeeGun(시건)
+![Logo](https://github.com/osamhack2022/Web_IOT_SeeGun_8div/blob/main/SeeGun.jpg?raw=true)
+
+
+
+
 # ❤아이템 개요
 
 💡 [관련링크](https://www.donga.com/news/Society/article/all/20220810/114893200/2)
