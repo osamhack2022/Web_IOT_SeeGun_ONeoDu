@@ -3,18 +3,13 @@
 
 
 
-
-# ❤아이템 개요
-
+## ❤ 프로잭트 소개
 💡 [관련링크](https://www.donga.com/news/Society/article/all/20220810/114893200/2)
 
 
 > **올해 8월 10일, 한 군사 간부가 총과 실탄를 부대 밖으로 들고나와 초등학교 인근에서 총을 이용해 자살한 안타깝지만 위험했던 사건이 뉴스에 보도되었습니다.  이 사례를 통해 알 수 있듯이, 총기 사고는 최근까지도 지속적으로 발생해왔습니다. 이러한 총기 사고가 발생하지 않기 위해 총기 관리에 있어 경각심을 가져야 하고, 그와 더불어 더욱 더 철저하고 정확한 관리 시스템이 필요합니다. 하지만 사람이 눈으로 직접 총기 현황을 파악함에 있어서 누락이 발생하기 쉽고, 엄격한 관리가 쉽지 않습니다. 따라서 저희 팀은 총기 관리 교차 검증이 가능한 총기 관리 서비스를 구축하고자 합니다.** **실제 군 생활을 하면서 장병들 모두 총기 관리가 매우 중요함을 인식하고 있지만, 관리에 있어서 번거로운 점 또한 몸소 많이 느끼고 있습니다 . 총기를 관리하면서 교차 검증이 가능한 관리 서비스가 존재한다면 근무간 총기 실셈에 대한 불편함과 실수 등이 줄어듭니다. 더 나가 총기로 인해 발생하는 다양한 사고를 막을 수 있습니다. 저희 팀은 총기 보관에 대한 전반적인 관제 및 관리 서비스를 만들고자 합니다. IoT센서와 AI기술을 활용하여 총기 보관 현황을 파악하고, React와 같은 웹 프레임워크를 이용하여 사용자에게 직관적인 총기 관리 인터페이스를 제공합니다. 총기 보관 현황 및 반입/반출 경위를 SQLite와 같은 DB에 기록하고 가져오는 과정을 통해 실시간으로 파악할 수 있고, 이를 활용하여 평시, 근무, 훈련 간 총기 관리 부실을 방지할 수 있습니다. 더불어 이 시스템은 군 내부 뿐만 아니라 민간 총기 사용 기관에서 까지 확장 가능한 아이템입니다.**
 
-# ❤계획 및 목표
-
-## 기능
-
+## 🔔 기능 설명
 - **관리자(근무자) 로그인/로그아웃**
 - **실시간 총기 현황 확인 UI**
 - **최근 반입/반출 이력, 시스템 접근 이력(DB, 로그 수집)**
@@ -23,6 +18,29 @@
 - AI를 통해 IoT센서와의 총기 정보 이중 검증
     
     
+## 🛠 기술 스택 (Technique Used)
+### Front-end
+<img src="https://img.shields.io/badge/React-18.0.4-61DAFB?style=flat&logo=React&logoColor=white"/>
+
+### Back-end
+
+
+
+## 설치 안내 (Installation Process)
+
+#### NPM
+```bash
+$ git clone https://github.com/osamhack2022/Web_IOT_SeeGun_8div.git
+$ npm install
+$ npm run start
+```
+
+#### YARN
+```bash
+$ git clone https://github.com/osamhack2022/Web_IOT_SeeGun_8div.git
+$ yarn
+$ yarn start
+```
 
 ### **개인 역할 분담**
 
@@ -99,7 +117,7 @@ Chart 오픈소스를 이용하여 총기 유무, 소유자, 소속 등 총기 �
 -->
 
 
-<h2 id="team"> 💎 팀 구성원</h2>
+<h2 id="team"> 💎 팀 정보 (Team Information)</h2>
 
 <table width="900">
 <thead>
@@ -180,7 +198,7 @@ Chart 오픈소스를 이용하여 총기 유무, 소유자, 소속 등 총기 �
 </tbody>
 </table>
 
+## 저작권 및 사용권 정보 (Copyleft / End User License)
+ * [MIT](https://github.com/osam2020-WEB/Sample-ProjectName-TeamName/blob/master/license.md)
 
-
-<img src="https://img.shields.io/badge/React-18.0.4-61DAFB?style=flat&logo=React&logoColor=white"/>
-
+This project is licensed under the terms of the MIT license.
