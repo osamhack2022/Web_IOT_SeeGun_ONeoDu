@@ -139,7 +139,7 @@ Chart 오픈소스를 이용하여 총기 유무, 소유자, 소속 등 총기 �
 	</a>
 </td>
 <td width="300" align="center">
-<a href="mailto:oesnuj@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=oesnuj@gmail.com&color=56347C&style=flat-square&logo=Gmail"></a>
+<a href="mailto:semiwest2@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=oesnuj@gmail.com&color=56347C&style=flat-square&logo=Gmail"></a>
 </tr>
 
 <tr>
