@@ -20,7 +20,12 @@
     
 ## 🛠 기술 스택 (Technique Used)
 ### Front-end
-<img src="https://img.shields.io/badge/React-18.0.4-61DAFB?style=flat&logo=React&logoColor=white"/>
+![](https://img.shields.io/badge/yarn-v1.22.10-2C8EBB?style=square&logo=yarn)
+![](https://img.shields.io/badge/React-v18.2-61DAFB?style=square&logo=react)
+![](https://img.shields.io/badge/Node-v16.17.2-339933?style=square&logo=node.js)
+![](https://img.shields.io/badge/React%20Router-v6-CA4245?style=square&logo=react-router)
+![](https://img.shields.io/badge/Recoil-v0.7.5-9775fa?style=square&logo=redux)
+![](https://img.shields.io/badge/Scss-v5-CC6699?style=square&logo=sass)
 
 ### Back-end
 
